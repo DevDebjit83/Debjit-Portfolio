@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+        "title": "VeriFy AI",
+        "description": "An AI-powered deepfake detection platform that uses advanced machine learning to identify manipulated media content. Built with Next.js and cutting-edge computer vision technology.",
+        "tags": [
+            "Next.js",
+            "AI/ML",
+            "Computer Vision",
+            "TypeScript"
+        ],
+        "type": "AI/ML",
+        "links": {
+            "github": "https://github.com/DevDebjit83/VeriFy-AI",
+            "demo": ""
+        },
+        "image": "/projects/verify-ai.png"
+    },
+    {
+        "id": "2",
+        "title": "Loan Easy",
+        "description": "A complete professional banking application with machine learning-powered loan approval predictions, comprehensive user authentication, document verification system, and collateral-based eligibility checking.",
+        "tags": [
+            "Flask",
+            "Python",
+            "scikit-learn",
+            "SQLAlchemy",
+            "Machine Learning"
+        ],
+        "type": "AI/ML",
+        "links": {
+            "github": "https://github.com/DevDebjit83/loan-easy",
+            "demo": ""
+        },
+        "image": "/projects/loan-easy.png"
+    },
+    {
+        "id": "3",
+        "title": "AI Career Roadmap",
+        "description": "An intelligent career guidance platform powered by Google Gemini AI that creates personalized learning roadmaps for tech careers. Features Firebase authentication and real-time data sync.",
+        "tags": [
+            "Google Gemini AI",
+            "Firebase",
+            "Next.js",
+            "TypeScript"
+        ],
+        "type": "AI/ML",
+        "links": {
+            "github": "https://github.com/DevDebjit83/ai-career-roadmap",
+            "demo": ""
+        },
+        "image": "/projects/career-roadmap.png"
+    },
+    {
+        "id": "4",
+        "title": "ProView Cadence",
+        "description": "A professional, fully dynamic frontend website showcasing technical services including Machine Learning, AI, Full Stack Development, UI/UX Design, and Automation solutions. Features an integrated Developer Mode for easy content management.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Frontend"
+        ],
+        "type": "Frontend",
+        "links": {
+            "github": "https://github.com/DevDebjit83/proview-cadence-website",
+            "demo": ""
+        },
+        "image": "/projects/proview-cadence.png"
+    }
+]
