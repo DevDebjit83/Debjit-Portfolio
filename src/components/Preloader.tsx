@@ -7,9 +7,14 @@ export default function Preloader() {
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
+        // Scroll to top immediately
+        window.scrollTo(0, 0);
+
         // Show preloader for 1.5 seconds
         const timer = setTimeout(() => {
             setIsLoading(false);
+            // Ensure we're at top when preloader finishes
+            window.scrollTo({ top: 0, behavior: 'instant' });
         }, 1500);
 
         return () => clearTimeout(timer);

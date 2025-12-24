@@ -36,7 +36,7 @@ export default function Contact() {
                 </p>
             </motion.div>
 
-            <div className="grid lg:grid-cols-5 gap-8">
+            <div className="grid grid-cols-1 lg:grid-cols-5 gap-6 lg:gap-8">
                 {/* Contact Form - Terminal Style */}
                 <motion.div
                     initial={{ opacity: 0, x: -20 }}
